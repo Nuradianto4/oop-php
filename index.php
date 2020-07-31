@@ -16,11 +16,12 @@ echo $kodok->legs;
 echo $kodok->cold_blooded."<br>";
 echo $kodok->loncat."<br><br>";
 
-$sunggokong = new Ape("sunggokong");
+$sunggokong = new Ape("kera sakti");
 
 
 echo $sunggokong->name."<br>";
 echo $sunggokong->legs;
 echo $sunggokong->cold_blooded."<br>";
 echo $sunggokong->suara."<br><br>";
+echo $sunggokong;
 ?>
