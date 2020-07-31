@@ -23,5 +23,4 @@ echo $sunggokong->name."<br>";
 echo $sunggokong->legs;
 echo $sunggokong->cold_blooded."<br>";
 echo $sunggokong->suara."<br><br>";
-echo $sunggokong;
 ?>
